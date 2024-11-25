@@ -35,7 +35,8 @@ I'm a **Front-End Developer** with a passion for creating intuitive, responsive,
 ---
 
 ## 🛠️ Technical Skills
-- **Programming & Web Development**: JavaScript (JS), HTML, CSS, React, Redux, Node.js, Express
+- **Programming & Web Development**: JavaScript (JS) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue)
+, HTML, CSS, React, Redux ![React](https://img.shields.io/badge/Framework-React-blue), Node.js, Express
 - **Frameworks & Tools**: Bootstrap, Emotion, .NET, C#, F#
 - **Database Management**: PostgreSQL
 - **Creative & Additional Skills**: Writing, Music Production
